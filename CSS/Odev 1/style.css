@@ -1,0 +1,54 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: beige;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+article {
+    text-align: center;
+}
+
+.i-baslik {
+    font-family: 'Macondo', cursive;
+    text-align: center;
+}
+
+.i-links {
+    text-align: center;
+}
+
+.ortala {
+    text-align: center;
+}
+
+.i-h2 {
+    font-family: 'Oswald', sans-serif;
+    color: chocolate;
+}
+
+.oyun {
+    font-weight: bold;
+    margin-top: 0%;
+    font-family: 'Macondo', cursive;
+}
+
+.oyun-image {
+    width: 400px;
+    height: auto;
+}
+
+.games-list {
+    font-family: 'Odibee Sans', cursive;
+    color: orange;
+}
+
+.margin{
+    margin-left: 200px;
+    margin-right: 200px;
+}
