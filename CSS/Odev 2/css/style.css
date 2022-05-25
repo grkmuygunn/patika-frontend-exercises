@@ -1,0 +1,60 @@
+.container {
+    padding: 0 70px 0 70px;
+    text-align: center;
+}
+
+.search {
+    background-color: rgb(233, 233, 233);
+}
+
+.search>p{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 1px;
+}
+
+#gsearch{
+    width: 300px;
+}
+
+.info{
+    display: block;
+    text-align: center;
+    margin-top: 3px;
+}
+
+.card1, .card2, .card3{
+    float: left;
+    background-color: #70CCC2;
+    height: 85px;
+}
+
+.card1{
+    width: 40%;
+}
+
+.card2{
+    width: 20%;
+    margin: auto 1px;
+}
+
+.card3{
+    width: 39.8559%;
+}
+
+.card1 p{
+    margin-bottom: 0px;
+}
+
+.card2 p{
+    margin: 0px;
+    font-size: 14px;
+}
+
+.card3 p{
+    margin: 0px;
+    font-size: 13px;
+}
+.copyright{
+    clear: left;
+}
